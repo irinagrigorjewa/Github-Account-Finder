@@ -1,0 +1,21 @@
+.repo-item {
+  background-color: #ffffff;
+  margin-bottom: 24px;
+  padding: 24px 32px;
+  height: 100%;
+  width: 100%;
+
+  .repo-title {
+    color: #0064EB;
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .subtitle {
+    font-size: 16px;
+  }
+}
